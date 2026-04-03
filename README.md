@@ -105,7 +105,7 @@ The analysis uses the **Olist Brazilian E-Commerce Dataset** ([Kaggle](https://w
 ## Main Conclusions
 
 ### Sales Trends:
-  - **Growth & Stabilization**: Sales grew until 2018, then stabilized at 6–7K orders and 1–1.2M R$ per month.
+  - **Growth & Stabilization**: Sales grew until 2018, then stabilized at 6 - 7K orders and 1-1.2M R$ per month.
   - **Black Friday (11/24/2017)**: 1,147 orders in a single day — 4.7x the daily average of 243.
   - **Geography**: São Paulo dominates (42% of sales), with steady growth in 2018, unlike other regions.
 
@@ -116,7 +116,7 @@ The analysis uses the **Olist Brazilian E-Commerce Dataset** ([Kaggle](https://w
 
 ### Delivery Insights:
   - Delayed orders correlate with lower ratings (avg. 19.1 days for 1-star vs. 10.2 days for 5-star).
-  - **74% of total delivery time** is spent with carriers — the biggest operational bottleneck.
+  - **74% of total delivery time** is spent with carriers - the biggest operational bottleneck.
   - Heavy and expensive orders take longer to deliver and are more likely to be delayed.
 
 ### Payment & Risk:
@@ -130,10 +130,10 @@ The analysis uses the **Olist Brazilian E-Commerce Dataset** ([Kaggle](https://w
   - **Delivery Bottleneck**: 74% of total delivery time is with carriers.
 
 ### Customer Segments (RFM):
-  - **Champions**: 23,491 customers (25.2%) — avg spend R$228.
+  - **Champions**: 23,491 customers (25.2%) - avg spend R$228.
   - **Potential Loyalists**: 17,437 customers (18.7%).
-  - **At Risk**: 11,511 customers — last purchase 451 days ago.
-  - **Lost**: 5,900 customers (6.3%) — need win-back campaigns.
+  - **At Risk**: 11,511 customers - last purchase 451 days ago.
+  - **Lost**: 5,900 customers (6.3%) - need win-back campaigns.
 
 [⬆ back to top](#contents)
 
@@ -154,7 +154,7 @@ The analysis uses the **Olist Brazilian E-Commerce Dataset** ([Kaggle](https://w
   - Expedite heavy and expensive orders — they face 2x more 1-star ratings due to delays.
 
 ### Leverage Installment Payments:
-  - Promote installment plans — customers with 6+ installments spend 2.1x more.
+  - Promote installment plans : customers with 6+ installments spend 2.1x more.
   - Offer 0% interest installment campaigns to boost adoption.
 
 ### Optimize Black Friday Logistics:
@@ -202,8 +202,3 @@ jupyter notebook Olist_Analysis.ipynb
 [⬆ back to top](#contents)
 
 ---
-
-## Author
-
-**Sanchal Benny**
-BSc. Data Science | Mount Carmel College Bangalore
